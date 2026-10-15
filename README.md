@@ -1,1 +1,1 @@
-Es un curriculum Vitae dersarrollado en HTML. Su autora es Maitena emeri, para la materia de "Procesamiento de Datos 3". La dorección publicada es https://maitenaemeri.github.io
+Es un curriculum Vitae dersarrollado en HTML. Su autora es Maitena emeri, para la materia de "Procesamiento de Datos 3". La dorección publicada es [https://maitenaemeri.github.io](https://maitenaemeri-bit.github.io/maiteemeri.github.io/)
